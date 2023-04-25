@@ -10,8 +10,8 @@ We are actively working on the book and aim to complete the first draft around m
 - Chapter 2. Building an NLIDB: The Basics ([draft](https://github.com/nlidb/Book/blob/main/draft/Chapter2.pdf))
 - Chapter 3. Data and Query Model ([draft](https://github.com/nlidb/Book/blob/main/draft/Chapter3.pdf))
 - Chapter 4. Text to Data
-- Chapter 5. Data to Text
-- Chapter 6. Evaluation 
+- Chapter 5. Evaluation 
+- Chapter 6. Data to Text
 - Chapter 7. Interactivity
 
 
