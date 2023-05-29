@@ -45,7 +45,7 @@ Under Construction
 [//]: <> (* People who have helped with the figures: )
 [//]: <> (* People who have helped with the examples and part of Chapter 7: Tao Yu )
 
-### Lecture Notes
+### Lecture Slides
 Coming soon. 
 
 ### Author Websites
