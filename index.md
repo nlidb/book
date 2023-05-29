@@ -31,12 +31,12 @@ Yunyao Li, Dragomir R. Radev and Davood Rafiei. <em>Natural Language Interfaces 
 
 
 ### Code accompanying the book
-Under Construction
+Coming soon. 
 
 [//]: <> (### Endorsement)
 
 ### Acknowledgement 
-Under Construction
+Coming soon. 
 
 [//]: <> (To include in the future)
 [//]: <> (This book would not be possible without the help and support of many people. In particular, we would like to thank the following people for helping with this book)
