@@ -28,3 +28,8 @@ Under Construction
 
 ### Resources
 Under construction
+
+### Author Websites
+- [Yunyao Li](https://yunyaoli.github.io)
+- [Dragomir R. Radev](https://www.cs.yale.edu/homes/radev/)
+- [Davood Rafiei](https://webdocs.cs.ualberta.ca/~drafiei/)
