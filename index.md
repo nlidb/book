@@ -20,11 +20,11 @@ Under Construction
 Under Construction
 
 [//]: <> (To include in the future)
-[//]: <> (We would like to thank the following people for helping with this book)
+[//]: <> (This book would not be possible without the help and support of many people. In particular, we would like to thank the following people for helping with this book)
 [//]: <> (* Proof readers: )
 [//]: <> (* People who have provided feedback on parts of the book: H.V. Jagadish)
 [//]: <> (* People who have helped with the figures: )
-[//]: <> (* People who have helped with the examples: Tao Yu )
+[//]: <> (* People who have helped with the examples and part of Chapter 7: Tao Yu )
 
 ### Resources
 Under construction
