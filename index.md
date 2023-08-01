@@ -39,7 +39,7 @@ Coming soon.
 [//]: <> (To include in the future)
 This book would not be possible without the help and support of many people. In particular, we would like to thank the following people for helping with this book:
 * People who have provided feedback on an earlier draft of the book: [H.V. Jagadish](https://web.eecs.umich.edu/~jag/) and an anonymous reviewer
-* People who have helped with feedback / input on part of the book: Lorenzo Flores, Doris Lee, Aditya Parameswaran and Tao Yu 
+* People who have helped with feedback / input on part of the book: Lorenzo Flores, [Doris Lee](http://dorisjunglinlee.com), [Aditya Parameswaran](https://people.eecs.berkeley.edu/~adityagp/) and [Tao Yu](https://taoyds.github.io) 
 
 [Complete list](https://github.com/nlidb/book/blob/main/draft/acknowledgement.pdf)
 
