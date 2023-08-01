@@ -36,14 +36,12 @@ Coming soon.
 [//]: <> (### Endorsement)
 
 ### Acknowledgement 
-[Link](https://github.com/nlidb/book/blob/main/draft/acknowledgement.pdf)
-
 [//]: <> (To include in the future)
-[//]: <> (This book would not be possible without the help and support of many people. In particular, we would like to thank the following people for helping with this book)
-[//]: <> (* Proof readers: )
-[//]: <> (* People who have provided feedback on parts of the book: H.V. Jagadish)
-[//]: <> (* People who have helped with the figures: )
-[//]: <> (* People who have helped with the examples and part of Chapter 7: Tao Yu )
+This book would not be possible without the help and support of many people. In particular, we would like to thank the following people for helping with this book:
+* People who have provided feedback on an earlier draft of the book: [H.V. Jagadish](https://web.eecs.umich.edu/~jag/) and an anonymous reviewer
+* People who have helped with feedback / input on part of the book: Lorenzo Flores, Doris Lee, Aditya Parameswaran and Tao Yu 
+
+[Complete list](https://github.com/nlidb/book/blob/main/draft/acknowledgement.pdf)
 
 ### Lecture Slides
 Coming soon. 
