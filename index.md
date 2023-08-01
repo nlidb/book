@@ -36,7 +36,7 @@ Coming soon.
 [//]: <> (### Endorsement)
 
 ### Acknowledgement 
-Coming soon. 
+[Link](https://github.com/nlidb/book/blob/main/draft/acknowledgement.pdf)
 
 [//]: <> (To include in the future)
 [//]: <> (This book would not be possible without the help and support of many people. In particular, we would like to thank the following people for helping with this book)
