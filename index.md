@@ -50,5 +50,5 @@ Coming soon.
 
 ### Author Websites
 - [Yunyao Li](https://yunyaoli.github.io)
-- [Dragomir R. Radev](https://www.cs.yale.edu/homes/radev/)
+- [Dragomir R. Radev](https://www.cs.yale.edu/homes/radev/) ([Memorial website](https://yaleseas.com/remembering-drago/))
 - [Davood Rafiei](https://webdocs.cs.ualberta.ca/~drafiei/)
