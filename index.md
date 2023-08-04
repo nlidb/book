@@ -8,6 +8,8 @@ For updates about new versions, follow us on Twitter: [Yunyao](https://twitter.c
 ### Table of Content 
 Last draft date: July 31, 2023
 
+- Foreword ([link](https://github.com/nlidb/book/blob/main/draft/Foreword.pdf))
+- Preface ([link](https://github.com/nlidb/book/blob/main/draft/Preface.pdf))
 - Chapter 1. Overview ([draft](https://github.com/nlidb/Book/blob/main/draft/Chapter1.pdf))
 - Chapter 2. Building an NLIDB: The Basics ([draft](https://github.com/nlidb/Book/blob/main/draft/Chapter2.pdf))
 - Chapter 3. Data and Query Model ([draft](https://github.com/nlidb/Book/blob/main/draft/Chapter3.pdf))
