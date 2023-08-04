@@ -6,7 +6,7 @@ For updates about new versions, follow us on Twitter: [Yunyao](https://twitter.c
 
 --------------
 ### Table of Content 
-Last draft date: May 27, 2023
+Last draft date: July 31, 2023
 
 - Chapter 1. Overview ([draft](https://github.com/nlidb/Book/blob/main/draft/Chapter1.pdf))
 - Chapter 2. Building an NLIDB: The Basics ([draft](https://github.com/nlidb/Book/blob/main/draft/Chapter2.pdf))
@@ -15,6 +15,7 @@ Last draft date: May 27, 2023
 - Chapter 5. Evaluation ([draft](https://github.com/nlidb/Book/blob/main/draft/Chapter5.pdf))
 - Chapter 6. Data to Text ([draft](https://github.com/nlidb/Book/blob/main/draft/Chapter6.pdf))
 - Chapter 7. Interactivity ([draft](https://github.com/nlidb/Book/blob/main/draft/Chapter7.pdf))
+- Bibliography ([draft](https://github.com/nlidb/Book/blob/main/draft/Bibliography.pdf))
 
 ---
 ### Citation
