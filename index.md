@@ -4,6 +4,7 @@ Meanwhile, we are sharing the <ins>pre-print, non-final</ins> version of individ
 
 For updates about new versions, follow us on Twitter: [Yunyao](https://twitter.com/yunyao_li) and [Davood](https://twitter.com/DavoodRafiei). 
 
+--------------
 ### Table of Content 
 Last draft date: May 27, 2023
 
@@ -14,8 +15,8 @@ Last draft date: May 27, 2023
 - Chapter 5. Evaluation ([draft](https://github.com/nlidb/Book/blob/main/draft/Chapter5.pdf))
 - Chapter 6. Data to Text ([draft](https://github.com/nlidb/Book/blob/main/draft/Chapter6.pdf))
 - Chapter 7. Interactivity ([draft](https://github.com/nlidb/Book/blob/main/draft/Chapter7.pdf))
-- Bibliography ([draft](https://github.com/nlidb/Book/blob/main/draft/Bibliography.pdf))
 
+---
 ### Citation
 Yunyao Li, Dragomir R. Radev and Davood Rafiei. <em>Natural Language Interfaces to Databases</em>. Springer Nature. 2023
 
@@ -29,15 +30,17 @@ Yunyao Li, Dragomir R. Radev and Davood Rafiei. <em>Natural Language Interfaces 
 &nbsp;&nbsp;&nbsp;&nbsp;url = {[https://nlidb.github.io/book/](https://nlidb.github.io/book/)}<br>
 }<br>
 
-
+---
 ### Code accompanying the book
 Coming soon. 
 
 [//]: <> (### Endorsement)
 
+---
 ### Lecture Slides
 Coming soon. 
 
+---
 ### Acknowledgement 
 [//]: <> (To include in the future)
 This book would not be possible without the help and support of many people. In particular, we would like to thank the following people for helping with this book:
@@ -46,6 +49,7 @@ This book would not be possible without the help and support of many people. In 
 
 Complete list of [acknowledgement](https://github.com/nlidb/book/blob/main/draft/acknowledgement.pdf)
 
+---
 ### Author Websites
 - [Yunyao Li](https://yunyaoli.github.io)
 - [Dragomir R. Radev](https://www.cs.yale.edu/homes/radev/) ([Memorial website](https://yaleseas.com/remembering-drago/))
