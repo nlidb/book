@@ -1,8 +1,8 @@
-This book is to be published by Springer Nature in fall 2023.
+This book is published by Springer Nature: [link](https://link.springer.com/book/10.1007/978-3-031-45043-3). You can also purchase it on [Amazon](https://www.amazon.com/Language-Interfaces-Databases-Synthesis-Management/dp/3031450426/ref=sr_1_1?crid=3VFCFURX5B2S6&keywords=Natural+Language+Interfaces+to+Databases&qid=1701441183&sprefix=natural+language+interfaces+to+databases%2Caps%2C162&sr=8-1) and [Barns & Noble](https://www.barnesandnoble.com/w/book/1144006793?ean=9783031450433). 
 
-Meanwhile, we are sharing the <ins>pre-print, non-final</ins> version of individual chapters for early feedback and comments. If you notice any issues in the book or have any questions or suggestion, please do so by openning an github issue, so that we have everything in one place. Thanks in advance! 🌻
+Meanwhile, we are sharing the <ins>pre-print, non-final</ins> version of individual chapters for feedback and comments. If you notice any issues in the book or have any questions or suggestion, please do so by openning an github issue, so that we have everything in one place. Thanks in advance! 🌻
 
-For updates about new versions, follow us on Twitter: [Yunyao](https://twitter.com/yunyao_li) and [Davood](https://twitter.com/DavoodRafiei). 
+For updates about the book, follow us on Twitter: [Yunyao](https://twitter.com/yunyao_li) and [Davood](https://twitter.com/DavoodRafiei). 
 
 --------------
 ### Table of Content 
@@ -29,8 +29,6 @@ Yunyao Li, Dragomir R. Radev and Davood Rafiei. <em>Natural Language Interfaces 
 &nbsp;&nbsp;&nbsp;&nbsp;title = {Natural Language Interfaces to Databases},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;publisher = {Springer Nature},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;year = {2023},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;note = {Pre-print, non-final version},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;url = {[https://nlidb.github.io/book/](https://nlidb.github.io/book/)}<br>
 }<br>
 
 ---
