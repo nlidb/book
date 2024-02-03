@@ -10,7 +10,7 @@ Meanwhile, we are sharing the <ins>pre-print, non-final</ins> version of individ
 
 For updates about the book, follow us on Twitter: [Yunyao](https://twitter.com/yunyao_li) and [Davood](https://twitter.com/DavoodRafiei). 
 
-![](https://github.com/nlidb/book/blob/main/draft/dedication.png)
+![Dedication](https://github.com/nlidb/book/blob/main/draft/dedication.png)
 
 --------------
 ### Table of Content 
