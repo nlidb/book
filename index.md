@@ -1,8 +1,16 @@
-This book is published by Springer Nature: [link](https://link.springer.com/book/10.1007/978-3-031-45043-3). You can also purchase it on [Amazon](https://www.amazon.com/Language-Interfaces-Databases-Synthesis-Management/dp/3031450426/ref=sr_1_1?crid=3VFCFURX5B2S6&keywords=Natural+Language+Interfaces+to+Databases&qid=1701441183&sprefix=natural+language+interfaces+to+databases%2Caps%2C162&sr=8-1) and [Barns & Noble](https://www.barnesandnoble.com/w/book/1144006793?ean=9783031450433). 
+This book is published by Springer Nature: [link](https://link.springer.com/book/10.1007/978-3-031-45043-3). You can also purchase it on [Amazon](https://www.amazon.com/Language-Interfaces-Databases-Synthesis-Management/dp/3031450426) and [Barns & Noble](https://www.barnesandnoble.com/w/book/1144006793?ean=9783031450433). 
+
+If you enjoyed your read, the authors would appreciate your review of the book. 
+
+- [Review it on Amazon](https://www.amazon.com/Language-Interfaces-Databases-Synthesis-Management/dp/3031450426)
+- [Review it on Barns & Noble](https://www.barnesandnoble.com/w/book/1144006793?ean=9783031450433)
+- [Review it on GoodReads](https://www.goodreads.com/book/show/116702144-natural-language-data-management-and-interfaces)
 
 Meanwhile, we are sharing the <ins>pre-print, non-final</ins> version of individual chapters for feedback and comments. If you notice any issues in the book or have any questions or suggestion, please do so by openning an github issue, so that we have everything in one place. Thanks in advance! 🌻
 
 For updates about the book, follow us on Twitter: [Yunyao](https://twitter.com/yunyao_li) and [Davood](https://twitter.com/DavoodRafiei). 
+
+![](https://github.com/nlidb/book/blob/main/draft/dedication.png)
 
 --------------
 ### Table of Content 
