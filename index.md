@@ -1,3 +1,5 @@
+![](https://github.com/nlidb/book/blob/main/draft/bookCover.jpg)
+
 This book is published by Springer Nature: [link](https://link.springer.com/book/10.1007/978-3-031-45043-3). You can also purchase it on [Amazon](https://www.amazon.com/Language-Interfaces-Databases-Synthesis-Management/dp/3031450426) and [Barns & Noble](https://www.barnesandnoble.com/w/book/1144006793?ean=9783031450433). 
 
 If you enjoyed your read, the authors would appreciate your review of the book. 
