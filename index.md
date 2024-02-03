@@ -10,7 +10,10 @@ Meanwhile, we are sharing the <ins>pre-print, non-final</ins> version of individ
 
 For updates about the book, follow us on Twitter: [Yunyao](https://twitter.com/yunyao_li) and [Davood](https://twitter.com/DavoodRafiei). 
 
-![Dedication](https://github.com/nlidb/book/blob/main/draft/dedication.png)
+--------------
+### In loving memory of Drago Radev
+
+It is with a heavy heart and deep reverence that we present the final version of the book "Natural Language Interfaces to Databases." Our journey in crafting this work together spanned over more than two years, during which Drago's brilliance, unwavering dedication, and profound insights shaped every facet of its creation. His untimely passing in March 2023 was a profound loss, not only to those who had the privilege of knowing him personally but also to the academic and research communities worldwide. This book stands as a testament to his intellectual prowess and unyielding passion for knowledge dissemination. Although the completion of this work without his physical presence is bittersweet, we take solace in the knowledge that his spirit and ideas live on within these pages. It is our fervent hope that "Natural Language Interfaces to Databases" will continue to inspire, educate, and contribute to the advancement of our shared fields. May his legacy endure, and may this work serve as a tribute to the remarkable researcher who co-authored it — [Dragomir R. Radev](https://www.cs.yale.edu/homes/radev/) ([Memorial website](https://yaleseas.com/remembering-drago/)).
 
 --------------
 ### Table of Content 
