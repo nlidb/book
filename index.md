@@ -1,5 +1,3 @@
-![](https://github.com/nlidb/book/blob/main/draft/bookCover.jpg)
-
 This book is published by Springer Nature: [link](https://link.springer.com/book/10.1007/978-3-031-45043-3). You can also purchase it on [Amazon](https://www.amazon.com/Language-Interfaces-Databases-Synthesis-Management/dp/3031450426) and [Barns & Noble](https://www.barnesandnoble.com/w/book/1144006793?ean=9783031450433). 
 
 If you enjoyed your read, the authors would appreciate your review of the book. 
@@ -42,16 +40,7 @@ Yunyao Li, Dragomir R. Radev and Davood Rafiei. <em>Natural Language Interfaces 
 }<br>
 
 ---
-### Code accompanying the book
-Coming soon. 
 
-[//]: <> (### Endorsement)
-
----
-### Lecture Slides
-Coming soon. 
-
----
 ### Acknowledgement 
 [//]: <> (To include in the future)
 This book would not be possible without the help and support of many people. In particular, we would like to thank the following people for helping with this book:
@@ -65,3 +54,15 @@ Complete list of [acknowledgement](https://github.com/nlidb/book/blob/main/draft
 - [Yunyao Li](https://yunyaoli.github.io)
 - [Dragomir R. Radev](https://www.cs.yale.edu/homes/radev/) ([Memorial website](https://yaleseas.com/remembering-drago/))
 - [Davood Rafiei](https://webdocs.cs.ualberta.ca/~drafiei/)
+
+---
+### Code accompanying the book
+Coming soon. 
+
+[//]: <> (### Endorsement)
+
+---
+### Lecture Slides
+Coming soon. 
+
+---
